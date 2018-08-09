@@ -15,6 +15,7 @@ public class GenericResourceBundle {
 			if(key.equalsIgnoreCase(source)){
 				value = rb.getString(key);
 			}
+		// just some comments
 		}
 		return value;
 	}
