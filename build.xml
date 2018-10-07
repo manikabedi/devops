@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ====================================================================== -->
-<!-- Ant build file (http://ant.apache.org/) for Ant 1.7.2 or above. We are using Maven 3.4       -->
+<!-- Ant build file (http://ant.apache.org/) for Ant 1.7.2 or above. We are using Maven 3.4  for test     -->
 <!-- ====================================================================== -->
 
 <project name="addressbook" default="zip" basedir="." xmlns:artifact="antlib:org.apache.maven.artifact.ant" xmlns:ac="antlib:net.sf.antcontrib"   xmlns:sonar="antlib:org.sonar.ant">
